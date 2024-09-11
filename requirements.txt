@@ -83,5 +83,6 @@ git+https://github.com/KurimuzonAkuma/pyrogram
 git+https://github.com/TeamKillerX/RyuzakiLib
 git+https://github.com/johnwmillr/LyricsGenius
 git+https://github.com/urllib3/urllib3
+git+https://github.com/TeamKillerX/Akeno-Userbot/blob/main/Akeno/utils/driver.py
 yt-dlp==2024.8.6
 pytgcalls==3.0.0.dev22
