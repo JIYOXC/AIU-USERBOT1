@@ -8,6 +8,8 @@ pytz
 requests
 TgCrypto
 pyromod==1.1.0
+urllib3==2.2.2
+pyrogram==2.0.106
 ffmpeg-python
 pymongo
 Flask
@@ -79,10 +81,7 @@ git-python
 pySmartDL
 selenium
 PyYAML==6.0.2
-git+https://github.com/KurimuzonAkuma/pyrogram
 git+https://github.com/TeamKillerX/RyuzakiLib
 git+https://github.com/johnwmillr/LyricsGenius
-git+https://github.com/urllib3/urllib3
-git+https://github.com/TeamKillerX/Akeno-Userbot/blob/main/Akeno/utils/driver.py
 yt-dlp==2024.8.6
 pytgcalls==3.0.0.dev22
